@@ -1,0 +1,17 @@
+# ignore all model files
+*.model
+
+# ignore all pickle files
+*.pickle
+
+# ignore node_module folder
+node_modules
+
+# ignore Mac Files.
+.DS_Store
+
+# ignore all h5 files
+.h5
+
+#ignore all .zip files
+.zip
