@@ -1,5 +1,6 @@
+
 # ignore all model files
-*.model
+**/model
 
 # ignore all pickle files
 *.pickle
@@ -11,7 +12,10 @@ node_modules
 .DS_Store
 
 # ignore all h5 files
-.h5
+*.h5
 
 #ignore all .zip files
 .zip
+
+#ignore all .checkpoint files
+*/.ipynb_checkpoints/*
